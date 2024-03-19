@@ -1,4 +1,4 @@
-package org.exercises.polymorphism;
+package org.exercises.polymorphism.exporters;
 
 public class TextExporter implements Exporter {
     @Override
